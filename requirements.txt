@@ -1,0 +1,7 @@
+matplotlib
+pandas
+os
+glob
+numpy
+functools
+multiprocessing
